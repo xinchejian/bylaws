@@ -6,22 +6,22 @@
 
 * Hack, explore, and learn new skills.
 * Work on your projects.
-* Learn from and teach others. We believe in sharing what you know.
+* Learn from and teach others. We believe in sharing knowledge.
 
 We provide:
 
-* Shared spaces for people to work on their projects.
-* A place for you to leave your stuff when you're not working on it.
-* Shared equipment and resources and a place for you to share with others.
-* A safe and welcoming community of which you can be a part.
+* A shared space for people to work on their projects.
+* A place for members to store their projects.
+* Shared equipment and resources.
+* A safe and welcoming community.
 
 ## Type of members
 
-* member: person who've paid their dues (currently 100RMB/month)
-* active member: member who are present at the space regularly
-* staff member: a member who is actively involved and join staff meeting regularly
-* stakeholder: lifetime member who've put up 12K RMB in 2013 with a right of veto on critical decisions
-* alumni: past staff members
+* Member: A person who has paid their membership dues (currently 100 RMB/month).
+* Active Member: A member who is regularly at the space.
+* Staff Member: A member who is actively involved in management of the space.
+* Stakeholder: A lifetime member who has contributed to the financial founding of Xinchejian in 2013.  Stakeholders have a right of veto on critical decisions.
+* Alumni: Past staff members.
 
 ## Staff Meetings
 
