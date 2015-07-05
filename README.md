@@ -2,11 +2,11 @@
 
 ## Mission
 
-新车间 [Xinchejian] is a shared community where you can:
+新车间 [Xinchejian] is a community where you can:
 
-* Hack, explore and learn new skills.
-* Work on your own and group projects.
-* Learn from and teach others. Share what you know.
+* Hack, explore, and learn new skills.
+* Work on your projects.
+* Learn from and teach others. We believe in sharing what you know.
 
 We provide:
 
